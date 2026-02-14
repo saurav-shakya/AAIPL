@@ -144,3 +144,4 @@ if __name__ == "__main__":
         "Write a story", temperature=0.8, max_new_tokens=512
     )
     print(f"Custom response: {response}")
++
